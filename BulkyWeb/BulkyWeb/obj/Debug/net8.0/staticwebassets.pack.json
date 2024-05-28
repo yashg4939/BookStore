@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\0cdfd0bc-8a53-481f-b5d3-167877c37b1d.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\0cdfd0bc-8a53-481f-b5d3-167877c37b1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\120829e2-958d-47fd-a6eb-92ef6ebad535.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\120829e2-958d-47fd-a6eb-92ef6ebad535.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\1d6c8f80-3f82-4cd7-9a57-b3c1413b8af9.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\1d6c8f80-3f82-4cd7-9a57-b3c1413b8af9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\20e2d0c0-6d40-48d5-8656-c4852a8616c7.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\20e2d0c0-6d40-48d5-8656-c4852a8616c7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\2144519d-528e-4f22-8b40-27ad746854fa.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\2144519d-528e-4f22-8b40-27ad746854fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\5737b725-2370-4898-9e85-478b27d2944c.png",
+      "PackagePath": "staticwebassets\\images\\Product\\5737b725-2370-4898-9e85-478b27d2944c.png"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\83d77fef-94e8-4be1-b926-e8d4458a288f.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\83d77fef-94e8-4be1-b926-e8d4458a288f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\95d7c71e-7952-4b87-aead-3e03f5f757f1.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\95d7c71e-7952-4b87-aead-3e03f5f757f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\book.png",
+      "PackagePath": "staticwebassets\\images\\Product\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\c21146a2-29f3-4f94-9512-095fd17e9214.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\c21146a2-29f3-4f94-9512-095fd17e9214.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\cotton candy back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\cotton candy back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\cotton candy.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\cotton candy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\d8bf5b28-f104-4fc0-844f-12c8897ecfeb.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\d8bf5b28-f104-4fc0-844f-12c8897ecfeb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\dark skies back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\dark skies back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\dark skies.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\dark skies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\df4a9cbe-942f-4d81-ae98-ba406e8410ff.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\df4a9cbe-942f-4d81-ae98-ba406e8410ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\fortune of time back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\fortune of time back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\fortune of time.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\fortune of time.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\leaves and wonder back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\leaves and wonder back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\leaves and wonders.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\leaves and wonders.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\rock in the ocean back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\rock in the ocean back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\rock in the ocean.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\rock in the ocean.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\vanish in the sunset back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\vanish in the sunset back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\Product\\vanish in the sunset.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\vanish in the sunset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\1000215\\OneDrive - Compunnel\\New folder\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
+      "PackagePath": "build\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
+      "PackagePath": "buildTransitive\\BulkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
